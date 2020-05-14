@@ -1,2 +1,2 @@
 # babel-plugin-untrace
-Strip trace statements from js project using babel
+Strip trace statements from js project using babel indiscriminately
